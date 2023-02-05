@@ -7,7 +7,7 @@ using namespace std;
 Базовый класс будет содержать одно поле - сторона фигуры.
 */
 
-class Figure  // Áŕçŕ
+class Figure  
 {
 protected:
 	short side;
